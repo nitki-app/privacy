@@ -1,13 +1,13 @@
 <!-- ru -->
 # Политика конфиденциальности приложения Nitki
 
-Действует с 14 октября 2026 года.
+Действует с 15 октября 2026 года.
 
-Приложение Nitki делает схемы для вышивки крестом из ваших фото, открывает схемы из файлов и помогает вышивать по ним. Его выпускает ИП Максим Хорошилов (Maksim Khoroshilov, IE), Армения. Всё считается на вашем телефоне. Эта политика говорит, что происходит с вашими данными, — коротко: мы их не собираем.
+Приложение Nitki делает схемы для вышивки крестом из ваших фото, открывает схемы из файлов и помогает вышивать по ним. Его выпускает ИП Максим Хорошилов (Maksim Khoroshilov, IE), Армения. Всё считается на вашем телефоне. Эта политика говорит, что происходит с вашими данными, — коротко: само приложение их не собирает.
 
 ## Что мы собираем
 
-Ничего. В приложении нет аккаунтов, регистрации, рекламы, аналитики и отчётов о сбоях. У приложения нет даже разрешения на доступ в интернет: само оно ничего никуда не отправляет, а серверов у нас нет.
+Само приложение — ничего. В приложении нет аккаунтов, регистрации, рекламы, аналитики и отчётов о сбоях. У приложения нет даже разрешения на доступ в интернет: само оно ничего никуда не отправляет, а серверов у нас нет. Единственное, что мы можем получить от вас, — письмо, если вы сами решите нам написать: о нём раздел «Если вы нам напишете».
 
 ## Фото, файлы и схемы
 
@@ -26,6 +26,12 @@
 ## Оценка в Google Play
 
 Карточку с просьбой оценить Nitki показывает приложение Google Play. Пункт «Оценить Nitki» в «О приложении» открывает страницу Nitki в Google Play, а на телефоне без приложения Google Play — ту же страницу в браузере. Оценку и отзыв получает Google; само приложение Nitki не узнаёт даже того, поставили ли вы оценку. К оценкам и отзывам применяется политика конфиденциальности Google: https://policies.google.com/privacy
+
+## Если вы нам напишете
+
+Кнопка «Написать нам» — в «О приложении» и в конце «Как пользоваться» — готовит письмо и передаёт его почтовой программе телефона; отправляет письмо она, когда вы нажмёте в ней «Отправить». Мы получаем ваш адрес, текст письма и три строки, которые вы видели в нём перед отправкой: версию Nitki, версию Android и модель телефона. Ничего другого приложение в письмо не добавляет — ни названий схем и файлов, ни покупок, ни вложений.
+
+Эти данные мы используем только для того, чтобы ответить вам и исправить ошибки. Письмо удаляем через год после последнего письма переписки. Почта хранится у Google (Gmail); к ней применяется политика конфиденциальности Google: https://policies.google.com/privacy
 
 ## Резервная копия Android
 
@@ -50,13 +56,13 @@
 <!-- en -->
 # Nitki Privacy Policy
 
-Effective October 14, 2026.
+Effective October 15, 2026.
 
-Nitki makes cross-stitch patterns from your photos, opens patterns from files and helps you stitch from them. It is published by Maksim Khoroshilov, IE, Armenia. Everything is computed on your phone. This policy says what happens to your data; in short, we do not collect it.
+Nitki makes cross-stitch patterns from your photos, opens patterns from files and helps you stitch from them. It is published by Maksim Khoroshilov, IE, Armenia. Everything is computed on your phone. This policy says what happens to your data; in short, the app itself collects none of it.
 
 ## What we collect
 
-Nothing. Nitki has no accounts, sign-up, ads, analytics or crash reports. The app doesn't even have permission to use the internet: it sends nothing anywhere by itself, and we have no servers.
+The app itself: nothing. Nitki has no accounts, sign-up, ads, analytics or crash reports. The app doesn't even have permission to use the internet: it sends nothing anywhere by itself, and we have no servers. The only thing we may receive from you is an email, if you choose to write to us: see “If you write to us”.
 
 ## Photos, files and patterns
 
@@ -75,6 +81,12 @@ Purchases are handled by the Google Play app. Google handles the payment details
 ## Rating on Google Play
 
 The card that asks you to rate Nitki is shown by the Google Play app. Rate Nitki in About opens the Nitki page in Google Play, or, on a phone without the Google Play app, the same page in the browser. Google receives the rating and the review; the Nitki app itself does not even learn whether you rated it. Google handles ratings and reviews under its own privacy policy: https://policies.google.com/privacy
+
+## If you write to us
+
+The Write to us button, in About and at the end of How to use Nitki, prepares an email and hands it to your phone's mail app; the mail app sends it when you tap Send there. We receive your email address, the text of the email and the three lines you saw in it before sending: the Nitki version, the Android version and the phone model. The app adds nothing else to the email: no pattern or file names, nothing about purchases, no attachments.
+
+We use this only to answer you and to fix errors. We delete the email one year after the last email of the conversation. The mail is stored by Google (Gmail); Google's privacy policy applies to it: https://policies.google.com/privacy
 
 ## Android backup
 
