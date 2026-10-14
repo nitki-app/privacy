@@ -1,7 +1,7 @@
 <!-- ru -->
 # Политика конфиденциальности приложения Nitki
 
-Действует с 3 октября 2026 года.
+Действует с 14 октября 2026 года.
 
 Приложение Nitki делает схемы для вышивки крестом из ваших фото, открывает схемы из файлов и помогает вышивать по ним. Его выпускает ИП Максим Хорошилов (Maksim Khoroshilov, IE), Армения. Всё считается на вашем телефоне. Эта политика говорит, что происходит с вашими данными, — коротко: мы их не собираем.
 
@@ -22,6 +22,10 @@
 ## Покупки
 
 Покупки проводит приложение Google Play. Платёжные данные обрабатывает Google, мы их не получаем. Приложение узнаёт от Google Play только одно: что покупка совершена. К покупкам применяется политика конфиденциальности Google: https://policies.google.com/privacy
+
+## Оценка в Google Play
+
+Карточку с просьбой оценить Nitki показывает приложение Google Play. Пункт «Оценить Nitki» в «О приложении» открывает страницу Nitki в Google Play, а на телефоне без приложения Google Play — ту же страницу в браузере. Оценку и отзыв получает Google; само приложение Nitki не узнаёт даже того, поставили ли вы оценку. К оценкам и отзывам применяется политика конфиденциальности Google: https://policies.google.com/privacy
 
 ## Резервная копия Android
 
@@ -46,7 +50,7 @@
 <!-- en -->
 # Nitki Privacy Policy
 
-Effective October 3, 2026.
+Effective October 14, 2026.
 
 Nitki makes cross-stitch patterns from your photos, opens patterns from files and helps you stitch from them. It is published by Maksim Khoroshilov, IE, Armenia. Everything is computed on your phone. This policy says what happens to your data; in short, we do not collect it.
 
@@ -67,6 +71,10 @@ Reminders are scheduled by the phone itself: for them, the app sends nothing any
 ## Purchases
 
 Purchases are handled by the Google Play app. Google handles the payment details; we never receive them. The app learns only one thing from Google Play: that a purchase was made. Google's privacy policy applies to purchases: https://policies.google.com/privacy
+
+## Rating on Google Play
+
+The card that asks you to rate Nitki is shown by the Google Play app. Rate Nitki in About opens the Nitki page in Google Play, or, on a phone without the Google Play app, the same page in the browser. Google receives the rating and the review; the Nitki app itself does not even learn whether you rated it. Google handles ratings and reviews under its own privacy policy: https://policies.google.com/privacy
 
 ## Android backup
 
