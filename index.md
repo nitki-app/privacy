@@ -1,13 +1,21 @@
 <!-- ru -->
 # Политика конфиденциальности приложения Nitki
 
-Действует с 15 октября 2026 года.
+Действует с 12 ноября 2026 года.
 
-Приложение Nitki делает схемы для вышивки крестом из ваших фото, открывает схемы из файлов и помогает вышивать по ним. Его выпускает ИП Максим Хорошилов (Maksim Khoroshilov, IE), Армения. Всё считается на вашем телефоне. Эта политика говорит, что происходит с вашими данными, — коротко: само приложение их не собирает.
+Приложение Nitki делает схемы для вышивки крестом из ваших фото, открывает схемы из файлов и помогает вышивать по ним. Его выпускает ИП Максим Хорошилов (Maksim Khoroshilov, IE), Армения. Всё считается на вашем телефоне. Эта политика говорит, что происходит с вашими данными, — коротко: само приложение не собирает ничего, по чему вас можно узнать.
 
 ## Что мы собираем
 
-Само приложение — ничего. В приложении нет аккаунтов, регистрации, рекламы, аналитики и отчётов о сбоях. У приложения нет даже разрешения на доступ в интернет: само оно ничего никуда не отправляет, а серверов у нас нет. Единственное, что мы можем получить от вас, — письмо, если вы сами решите нам написать: о нём раздел «Если вы нам напишете».
+Почти ничего. В приложении нет аккаунтов, регистрации, рекламы и отчётов о сбоях. Серверов для ваших фото и схем у нас нет: они остаются на телефоне, пока вы сами их не отправите. Само приложение отправляет только одно — обезличенные счётчики шагов, о них следующий раздел. От вас лично мы можем получить только письмо, если вы сами решите нам написать: раздел «Если вы нам напишете».
+
+## Счётчики шагов
+
+Чтобы понять, где людям трудно, мы считаем, сколько человек доходит до каждого шага: первый запуск, фото выбрано, схема готова, открыт экран «Оплата схем», куплена одна схема или безлимит, показана карточка «Сделать ещё одну схему?», нажата на ней кнопка «Выбрать фото». Приложение только отправляет об этом короткие сообщения: одно о каждом шаге и только один раз за установку — название шага, версия Nitki, язык и регион телефона и отметка о том, впервые ли установлено приложение или обновлено с прежней версии (или восстановлено из копии Android). В сообщении нет ни имени, ни адреса, ни номера телефона, ни кода, по которому можно было бы узнать телефон или установку, ни фото, ни схем и их названий. Узнать вас по этим сообщениям нельзя — поэтому и удалить «ваши» записи отдельно невозможно: их не отличить от чужих.
+
+Сообщения принимает небольшая программа в нашем аккаунте Google (Google Apps Script), числа хранятся в Google-таблице. Передача зашифрована (HTTPS). К хранению у Google применяется политика конфиденциальности Google: https://policies.google.com/privacy
+
+Выключить счётчики можно в «Настройках» → «Обезличенные счётчики»: тогда приложение ничего не отправляет, ещё не отправленное стирается, а шаги, пройденные при выключенных счётчиках, не отправляются и после того, как вы включите их снова. Без сети сообщения ждут и уходят, когда сеть появится. Для этого у приложения с версии 1.0.6 есть разрешение на доступ в интернет; больше само приложение ничего по сети не отправляет.
 
 ## Фото, файлы и схемы
 
@@ -21,7 +29,7 @@
 
 ## Покупки
 
-Покупки проводит приложение Google Play. Платёжные данные обрабатывает Google, мы их не получаем. Приложение узнаёт от Google Play только одно: что покупка совершена. К покупкам применяется политика конфиденциальности Google: https://policies.google.com/privacy
+Покупки проводит приложение Google Play. Платёжные данные обрабатывает Google, мы их не получаем. Приложение узнаёт от Google Play только одно: что покупка совершена. К покупкам применяется политика конфиденциальности Google: https://policies.google.com/privacy Часть Google Play, встроенная в приложение для оплаты, может отправлять Google свои служебные записи о том, как работает оплата; к ним применяется та же политика конфиденциальности Google.
 
 ## Оценка в Google Play
 
@@ -39,11 +47,11 @@
 
 ## Хранение и удаление
 
-Всё, что хранит приложение, лежит на вашем телефоне, пока вы его не удалите. Удалённая схема 30 дней лежит в корзине и потом удаляется сама; удалить её сразу можно в корзине. Всё сразу удаляется вместе с приложением. Копию Android в аккаунте Google можно удалить в настройках резервного копирования Google.
+Всё, что хранит приложение, лежит на вашем телефоне, пока вы его не удалите. Удалённая схема 30 дней лежит в корзине и потом удаляется сама; удалить её сразу можно в корзине. Всё сразу удаляется вместе с приложением. Копию Android в аккаунте Google можно удалить в настройках резервного копирования Google. Записи счётчиков шагов хранятся в нашей Google-таблице; они обезличены, и связать их с вами невозможно.
 
 ## Дети
 
-Приложение не собирает данных ни о ком, в том числе о детях.
+Приложение не собирает личных данных ни о ком, в том числе о детях. Счётчики шагов обезличены: по ним нельзя узнать ни взрослого, ни ребёнка.
 
 ## Изменения
 
@@ -56,13 +64,21 @@
 <!-- en -->
 # Nitki Privacy Policy
 
-Effective October 15, 2026.
+Effective November 12, 2026.
 
-Nitki makes cross-stitch patterns from your photos, opens patterns from files and helps you stitch from them. It is published by Maksim Khoroshilov, IE, Armenia. Everything is computed on your phone. This policy says what happens to your data; in short, the app itself collects none of it.
+Nitki makes cross-stitch patterns from your photos, opens patterns from files and helps you stitch from them. It is published by Maksim Khoroshilov, IE, Armenia. Everything is computed on your phone. This policy says what happens to your data; in short, the app itself collects nothing that could tell who you are.
 
 ## What we collect
 
-The app itself: nothing. Nitki has no accounts, sign-up, ads, analytics or crash reports. The app doesn't even have permission to use the internet: it sends nothing anywhere by itself, and we have no servers. The only thing we may receive from you is an email, if you choose to write to us: see “If you write to us”.
+Almost nothing. Nitki has no accounts, sign-up, ads or crash reports. We have no servers for your photos and patterns: they stay on your phone unless you send them yourself. By itself the app sends one thing only: anonymous step counters, described in the next section. From you personally we may receive only an email, if you choose to write to us: see “If you write to us”.
+
+## Step counters
+
+To see which steps people find hard, we count how many reach each step: first launch, photo chosen, pattern ready, the Pay for patterns screen opened, one pattern or unlimited patterns bought, the “Make another pattern?” card shown, and Choose a photo tapped on it. The app only sends short messages about this: one for each step, and only once per install — the name of the step, the Nitki version, the language and region of the phone, and a yes-or-no mark of whether the app was newly installed or updated from an earlier version (or restored from the Android backup). The message holds no name, address or phone number, no code that could identify the phone or the install, and no photos, patterns or their names. These messages cannot tell who you are, so “your” records cannot be deleted separately either: there is no telling them from anyone else's.
+
+The messages are received by a small program in our Google account (Google Apps Script), and the numbers are kept in a Google spreadsheet. The transfer is encrypted (HTTPS). Google's privacy policy applies to the storage: https://policies.google.com/privacy
+
+You can turn the counters off in Settings → Anonymous counters: then the app sends nothing, anything not yet sent is erased, and steps passed while the counters are off are not sent later, after you turn them on again. Without a connection the messages wait and go out once the connection is back. For this, from version 1.0.6 the app has permission to use the internet; the app itself sends nothing else over the network.
 
 ## Photos, files and patterns
 
@@ -76,7 +92,7 @@ Reminders are scheduled by the phone itself: for them, the app sends nothing any
 
 ## Purchases
 
-Purchases are handled by the Google Play app. Google handles the payment details; we never receive them. The app learns only one thing from Google Play: that a purchase was made. Google's privacy policy applies to purchases: https://policies.google.com/privacy
+Purchases are handled by the Google Play app. Google handles the payment details; we never receive them. The app learns only one thing from Google Play: that a purchase was made. Google's privacy policy applies to purchases: https://policies.google.com/privacy The part of Google Play built into the app for payments may send Google its own service records about how payments work; the same Google privacy policy applies to them.
 
 ## Rating on Google Play
 
@@ -94,11 +110,11 @@ If Google backup is on in your phone, Android itself keeps a copy of the app's d
 
 ## Keeping and deleting data
 
-Everything Nitki keeps stays on your phone until you delete it. A deleted pattern stays in the trash for 30 days and is then removed; you can remove it at once from the trash. Uninstalling the app deletes everything at once. You can delete the Android backup in your Google account in Google's backup settings.
+Everything Nitki keeps stays on your phone until you delete it. A deleted pattern stays in the trash for 30 days and is then removed; you can remove it at once from the trash. Uninstalling the app deletes everything at once. You can delete the Android backup in your Google account in Google's backup settings. The records of the step counters are kept in our Google spreadsheet; they are anonymous and cannot be linked to you.
 
 ## Children
 
-Nitki collects no data about anyone, children included.
+Nitki collects no personal data about anyone, children included. The step counters are anonymous: they identify no one, adult or child.
 
 ## Changes
 
